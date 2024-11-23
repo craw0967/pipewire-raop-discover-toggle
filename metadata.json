@@ -1,0 +1,11 @@
+{
+  "name": "Raop Discover Toggle",
+  "gettext-domain": "raop-discover-toggle",
+  "description": "A toggle switch to enable/disable raop-discover",
+  "settings-schema": "org.gnome.shell.extensions.raop-discover-toggle",
+  "shell-version": [
+    "42"
+  ],
+  "uuid": "raop-discover-toggle@craw0967.github.com",
+  "version": 1
+}
